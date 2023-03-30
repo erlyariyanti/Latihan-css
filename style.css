@@ -1,0 +1,36 @@
+#table-member{
+    border-collapse: collapse;
+    background: url(bp.jpg);
+    background-position: center;
+    /* background-color: palevioletred; */
+    /* background-color: black; */
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+
+    margin: auto;
+}
+.link{
+    color: palevioletred;
+    text-decoration: none;
+}
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: white;
+    background-color: pink;
+}
+#table-member h3{
+    font-size: 45px;
+    color: palevioletred;
+    /* color: black; */
+}
+img{
+    width: 250px;
+    height: 150px;
+}
+#table-member td{
+    padding: 20px;
+}
